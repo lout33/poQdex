@@ -1,0 +1,94 @@
+{
+  "configVersion": 1,
+  "timestamp": 1574262311307,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.edceabd528cca2a3b5e7.js",
+        "/main-es5.f70f7ce1a33c85755926.js",
+        "/polyfills-es2015.75bf482ee2a1689db99e.js",
+        "/polyfills-es5.804ff8a2a318283ac087.js",
+        "/runtime-es2015.aa36e2789a7b6e5e7675.js",
+        "/runtime-es5.d3647fbfa3de00cd0bdf.js",
+        "/styles.56f86040fcfc9f63879c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/container_bg.png",
+        "/assets/img/memepokemon-notfound.jpg",
+        "/container_bg.1fe6dcd6c86553800ea1.png",
+        "/fontawesome-webfont.674f50d287a8c48dc19b.eot",
+        "/fontawesome-webfont.912ec66d7572ff821749.svg",
+        "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2",
+        "/fontawesome-webfont.b06871f281fee6b241d6.ttf",
+        "/fontawesome-webfont.fee66e712a8a08eef580.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "1a3280e77ad174d69b5146fd630b2a30a0b8ce22",
+    "/assets/icons/icon-144x144.png": "c814f2d1ec152b93f01a5c5644be627033a430d0",
+    "/assets/icons/icon-152x152.png": "1654b70c89958b18efcc1d135303e437a4611077",
+    "/assets/icons/icon-192x192.png": "9fed36e2a20c63a3bab8a91cf4ca50704aaad390",
+    "/assets/icons/icon-384x384.png": "1d7a504b2c6319bed3c572568274997813c22175",
+    "/assets/icons/icon-512x512.png": "83affcc5a88e206d316972ccbea503dcb96248db",
+    "/assets/icons/icon-72x72.png": "ef3cda6ad5abd28ed9e3bb8b9618429eafb9b67d",
+    "/assets/icons/icon-96x96.png": "067c27ae7900ccc5dc92de7f0d2b19a5860c3ee2",
+    "/assets/img/container_bg.png": "eae3c4ac133de0f0c381925494f41894847a2a0c",
+    "/assets/img/memepokemon-notfound.jpg": "e5b769578fd93145d12b0387a3f222b8e6c89f67",
+    "/container_bg.1fe6dcd6c86553800ea1.png": "eae3c4ac133de0f0c381925494f41894847a2a0c",
+    "/favicon.ico": "ef3cda6ad5abd28ed9e3bb8b9618429eafb9b67d",
+    "/fontawesome-webfont.674f50d287a8c48dc19b.eot": "d980c2ce873dc43af460d4d572d441304499f400",
+    "/fontawesome-webfont.912ec66d7572ff821749.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
+    "/fontawesome-webfont.af7ae505a9eed503f8b8.woff2": "d6f48cba7d076fb6f2fd6ba993a75b9dc1ecbf0c",
+    "/fontawesome-webfont.b06871f281fee6b241d6.ttf": "13b1eab65a983c7a73bc7997c479d66943f7c6cb",
+    "/fontawesome-webfont.fee66e712a8a08eef580.woff": "28b782240b3e76db824e12c02754a9731a167527",
+    "/index.html": "88e2c88a966dd714248f471a1e7db58b2be8cef5",
+    "/main-es2015.edceabd528cca2a3b5e7.js": "b7a7371bae7a48da805f1f6f6b6e8ca4665feb89",
+    "/main-es5.f70f7ce1a33c85755926.js": "d1956e416995914a63e33f395962907f5260e178",
+    "/polyfills-es2015.75bf482ee2a1689db99e.js": "ffe5f8cfa6eae51a7a95e8363b303b0c44ade852",
+    "/polyfills-es5.804ff8a2a318283ac087.js": "e8b3f6682f6dc8ae349eb9c2e31f699ada3b8a69",
+    "/runtime-es2015.aa36e2789a7b6e5e7675.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es5.d3647fbfa3de00cd0bdf.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.56f86040fcfc9f63879c.css": "c4fd980937a41eaa529ec4c5413b76da16d97a65"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
